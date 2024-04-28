@@ -1,6 +1,5 @@
-owner = PLR
-controller = PLR
-add_core = RUS
+owner = SWE
+controller = SWE
 add_core = PLR
 add_core = FIN
 add_core = SWE

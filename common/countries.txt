@@ -679,7 +679,7 @@ GXI        = "countries/Guangxi Clique.txt"
 SXI        = "countries/Shanxi.txt"
 YNN        = "countries/Yunnan.txt"
 XBI        = "countries/Xibei San Ma.txt"
-XIN        = "countries/Xinjiang.txt"
+XIN        = "countries/Xinjiang.txt" 
 
 # North America
 BJC        = "countries/Southern California.txt"

@@ -1,5 +1,6 @@
-owner = FIN
-controller = FIN
+owner = DEN
+controller = DEN
+add_core = DEN
 add_core = FIN
 add_core = SWE
 add_core = SMI

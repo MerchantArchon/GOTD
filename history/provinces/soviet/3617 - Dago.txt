@@ -1,5 +1,6 @@
-owner = EST
-controller = EST
+owner = DEN
+controller = DEN
+add_core = DEN
 add_core = UBD
 add_core = EST
 trade_goods = timber

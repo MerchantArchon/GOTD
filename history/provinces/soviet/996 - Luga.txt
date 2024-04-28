@@ -1,5 +1,6 @@
-owner = PLR
-controller = PLR
+owner = DEN
+controller = DEN
+add_core = DEN
 add_core = RUS
 add_core = PLR
 trade_goods = timber
