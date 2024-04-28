@@ -1,8 +1,7 @@
-owner = AUS
-controller = AUS
+owner = PLR
+controller = PLR
+add_core = PLR
 add_core = ROM
 add_core = MOL
-add_core = BKV
-add_core = GLM
 trade_goods = cattle
 life_rating = 35

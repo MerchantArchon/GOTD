@@ -1,8 +1,8 @@
 owner = LAT
 controller = LAT
 add_core = UBD
-add_core = RUS
 add_core = LAT
+add_core = PLR
 trade_goods = cattle
 life_rating = 35
 terrain = mitau

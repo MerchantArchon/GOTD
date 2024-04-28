@@ -4,5 +4,6 @@ add_core = CPL
 add_core = POM
 add_core = GER
 add_core = POL
+add_core = PLR
 trade_goods = grain
 life_rating = 40

@@ -2,5 +2,5 @@
 #controller = CMT
 #add_core = CMT
 trade_goods = timber
-terrain = forest_hills #couto_misto
 life_rating = 30
+terrain = forest_hills #couto_misto

@@ -1,6 +1,7 @@
-owner = RUS
-controller = RUS
+owner = PLR
+controller = PLR
 add_core = RUS
+add_core = PLR
 add_core = TAR
 add_core = URA
 trade_goods = iron

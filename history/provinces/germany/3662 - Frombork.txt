@@ -3,5 +3,6 @@ controller = CPL
 add_core = CPL
 add_core = PRU
 add_core = GER
+add_core = PLR
 trade_goods = fish
 life_rating = 40

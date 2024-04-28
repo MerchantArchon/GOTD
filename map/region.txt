@@ -278,13 +278,15 @@ PRU_544 = { 544 545 3493 } #Mecklenburg
 
 PRU_546 = { 546 547 548 679 680 3561 3669} #Pomerania
 
-PRU_549 = { 549 550 551 552 681 3376 3417 } #Brandenburg
+PRU_549 = { 549 550 551 681 3376 } #Brandenburg
 
-PRU_553 = { 553 555 556 557  } #Magdeburg
+PRU_553 = { 553 555 557 } #Magdeburg
 
 PRU_554 = { 554 561 562 563 3255 3256 3365 3375 3425 } #Thuringia
 
-SAX_558 = { 558 559 560 687 3416 } #Saxony
+SAX_558 = { 558 556 559 560 } #Saxony
+
+SAX_687 = { 552 687 3416 3417 3418 } #Lusatia
 
 HES_2560 = { 564 565 566 567 568 2560 3257 3270 } #Hessen
 
@@ -312,7 +314,7 @@ SWI_607 = { 607 608 609 3250 3271 3317 } #Région Lémanique
 
 SWI_2568 = { 2568 2669 3666} #Alpen
 
-PRU_682 = { 682 683 3336 3337 3418 } #Lower Silesia
+PRU_682 = { 682 683 3336 3337 } #Lower Silesia
 
 PRU_685 = { 684 685 689 2584 3277 } #Upper Silesia
 

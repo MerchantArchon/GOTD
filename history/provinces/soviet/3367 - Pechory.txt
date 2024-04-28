@@ -1,7 +1,8 @@
-owner = RUS
-controller = RUS
+owner = PLR
+controller = PLR
 add_core = UBD
 add_core = RUS
+add_core = PLR
 add_core = EST
 trade_goods = cattle
 life_rating = 35

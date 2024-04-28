@@ -3,6 +3,7 @@ controller = CPL
 add_core = CPL
 add_core = PRU
 add_core = GER
+add_core = PLR
 trade_goods = cattle
 life_rating = 40
 #terrain = malbork

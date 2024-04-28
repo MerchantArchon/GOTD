@@ -1,6 +1,8 @@
-owner = RUS
-controller = RUS
+owner = PLR
+controller = PLR
 add_core = RUS
+add_core = PLR
 add_core = KRL
 trade_goods = timber
 life_rating = 35
+colonial = 2
