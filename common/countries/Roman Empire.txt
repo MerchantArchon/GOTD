@@ -1,5 +1,5 @@
 color = { 226 40 15 }
-graphical_culture = UltralarpGC
+graphical_culture = ItalianGC
 
 party = {
     name = "ITA_reactionary"

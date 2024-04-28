@@ -1,5 +1,5 @@
 color = { 212 179 47 }
-graphical_culture = EasternGC
+graphical_culture = Generic
 
 party = {
     name = "UKR_conservative"

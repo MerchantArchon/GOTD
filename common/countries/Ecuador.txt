@@ -1,5 +1,5 @@
 color = { 43  141  172 }
-graphical_culture = EcuadorianGC
+graphical_culture = SouthAmericanGC
 
 party = {
     name = "ECU_conservative"

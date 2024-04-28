@@ -1,5 +1,5 @@
 color = { 87  92  104 }
-graphical_culture = SouthAmericanGC
+graphical_culture = Generic
 
 party = {
     name = "CUB_reactionary"

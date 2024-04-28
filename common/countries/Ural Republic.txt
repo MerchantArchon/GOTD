@@ -1,5 +1,5 @@
 color = { 0  153  0 }
-graphical_culture = EasternGC
+graphical_culture = RussianGC
 
 party = {
     name = "URA_conservative"

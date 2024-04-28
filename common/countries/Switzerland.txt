@@ -1,5 +1,5 @@
 color = { 170  13  13 }
-graphical_culture = SwissGC
+graphical_culture = EuropeanGC
 
 party = {
     name = "SWI_liberal"

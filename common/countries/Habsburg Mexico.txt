@@ -5,9 +5,9 @@ absolute_monarchy = { 0 102 27 }
 prussian_constitutionalism = { 0 102 27 }
 hms_government = { 0 102 27 }
 proletarian_dictatorship = { 150 30 0 }
-colonial_company_4 = { 255 230 145 }
+viceroyalty = { 255 230 145 }
 prov_gov_liberal = { 255  255  100 }
-graphical_culture = MexicanGC
+graphical_culture = AustriaHungaryGC
 
 party = {
     name = "MXM_liberal"

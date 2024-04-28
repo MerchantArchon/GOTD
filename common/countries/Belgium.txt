@@ -1,6 +1,7 @@
 color = { 235 200 127 }
 colonial_company = { 193 171 8 }
-graphical_culture = BelgianGC
+dominion = { 193 171 8 }
+graphical_culture = EuropeanGC
 
 party = {
     name = "BEL_liberal"

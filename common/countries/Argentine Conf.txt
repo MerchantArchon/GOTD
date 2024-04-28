@@ -1,5 +1,5 @@
 color = { 45  45  97 }
-graphical_culture = FederalistGC
+graphical_culture = SouthAmericanGC
 
 party = {
     name = "ARG_liberal"

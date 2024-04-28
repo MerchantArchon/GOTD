@@ -1,5 +1,5 @@
 color = { 50  160  50 }
-graphical_culture = NafGC
+graphical_culture = EuropeanGC
 
 party = {
     name = "JAM_liberal"

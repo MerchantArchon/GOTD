@@ -1,5 +1,5 @@
 color = { 164  217  127 }
-graphical_culture = HanoverianGC
+graphical_culture = EuropeanGC
 
 party = {
     name = "HAN_liberal"

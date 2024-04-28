@@ -1,5 +1,4 @@
 color = { 25 25 125 }
-radical_republic = { 100 80 10 }
 graphical_culture = SwedishGC
 
 party = {

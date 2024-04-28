@@ -1,5 +1,5 @@
 color = { 219  182  182 }
-graphical_culture = BolivianGC
+graphical_culture = SouthAmericanGC
 
 party = {
     name = "BOL_conservative"

@@ -1,5 +1,5 @@
 color = { 255  234  168 }
-graphical_culture = ColombianGC
+graphical_culture = SouthAmericanGC
 
 party = {
     name = "CLM_radical"

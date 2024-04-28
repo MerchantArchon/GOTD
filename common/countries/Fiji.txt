@@ -1,5 +1,5 @@
 color = {8 181 255}
-graphical_culture = HawaiianGC
+graphical_culture = Generic
 
 party = {
     name = "FSM_liberal"
