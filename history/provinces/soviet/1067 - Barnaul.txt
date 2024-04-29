@@ -1,5 +1,5 @@
-owner = ALT
-controller = ALT
+owner = SIB
+controller = SIB
 add_core = ALT
 add_core = SIB
 trade_goods = gold

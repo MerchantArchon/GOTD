@@ -1,5 +1,5 @@
-owner = AUS
-controller = AUS
+owner = HUR
+controller = HUR
 add_core = POL
 add_core = SLV
 add_core = HUN

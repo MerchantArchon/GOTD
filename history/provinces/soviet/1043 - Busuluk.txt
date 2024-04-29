@@ -1,6 +1,6 @@
 owner = PLR
 controller = PLR
-add_core = RUS
+add_core = BKY
 add_core = PLR
 trade_goods = cattle
 life_rating = 35

@@ -1,5 +1,6 @@
-owner = AUS
-controller = AUS
+owner = HUR
+controller = HUR
+add_core = HUR
 add_core = SER
 add_core = BAN
 add_core = HUN

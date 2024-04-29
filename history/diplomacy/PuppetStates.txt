@@ -6,14 +6,6 @@ substate = {
     end_date = 1936.1.1
 }
 
-#Prussia - Sigmaringen
-vassal = {
-    first = PRU
-    second = SGM
-    start_date = 1836.1.1
-    end_date = 1936.1.1
-}
-
 #Switzerland - Neuchatel
 vassal = {
     first = SWI
@@ -41,14 +33,6 @@ vassal = {
     first = FRA
     second = MNC
     start_date = 1870.1.1
-    end_date = 1936.1.1
-}
-
-#Afghanistan - Hazarajat
-vassal = {
-    first = AFG
-    second = HAZ
-    start_date = 1830.1.1
     end_date = 1936.1.1
 }
 
@@ -106,6 +90,14 @@ vassal = {
     first = PER
     second = ZFN
     start_date = 1836.1.1
+    end_date = 1936.1.1
+}
+
+#Afghanistan - Hazarajat
+vassal = {
+    first = PER
+    second = HAZ
+    start_date = 1830.1.1
     end_date = 1936.1.1
 }
 
@@ -392,57 +384,72 @@ vassal = {
     end_date = 1864.1.1
 }
 
-# Sweden-Norway
-vassal = {
-    first = SWE
-    second = NOR
-    start_date = 1815.11.9
-    end_date = 1905.1.1
-}
-
-#Russia - Transcaucasia Namestnik
+#Hansa - Livonia
 substate = {
-    first = RUS
-    second = TCA
-    start_date = 1801.1.1
-    end_date = 1881.1.1
-}
-
-#Russia - Baltic Governorate
-substate = {
-    first = RUS
+    first = NGF
     second = UBD
     start_date = 1801.1.1
     end_date = 1881.1.1
 }
 
-#Russia - Baltic Governorate
+#Hansa - Brandenbourg
 substate = {
-    first = RUS
-    second = EST
+    first = NGF
+    second = BRN
     start_date = 1801.1.1
     end_date = 1881.1.1
 }
 
-#Russia - Baltic Governorate
+#Hansa - Prussia
 substate = {
-    first = RUS
+    first = NGF
+    second = PRU
+    start_date = 1801.1.1
+    end_date = 1881.1.1
+}
+
+#Russia Substate
+substate = {
+    first = PLR
+    second = CPL
+    start_date = 1801.1.1
+    end_date = 1881.1.1
+}
+substate = {
+    first = PLR
+    second = LIT
+    start_date = 1801.1.1
+    end_date = 1881.1.1
+}
+
+
+#Russia - Baltic Governorate
+vassal = {
+    first = PLR
     second = LAT
     start_date = 1801.1.1
     end_date = 1881.1.1
 }
 
-#Russia - Abkhazia
+#Russia - Cossacks
 vassal = {
-    first = RUS
-    second = ABK
+    first = PLR
+    second = DON
     start_date = 1801.1.1
-    end_date = 1865.1.1
+    end_date = 1881.1.1
+}
+
+#Russia - Cossacks
+vassal = {
+    first = PLR
+    second = URA
+    start_date = 1801.1.1
+    end_date = 1881.1.1
 }
 
 #Russia - Bukei Horde
 vassal = {
-    first = RUS
+    first = PLR
     second = BKY
     start_date = 1801.1.1
     end_date = 1865.1.1
@@ -452,14 +459,6 @@ vassal = {
 vassal = {
     first = TUR
     second = WAL
-    start_date = 1836.1.1
-    end_date = 1859.1.24    # Reunification of Wallachia and Moldavia
-}
-
-# Ottoman Empire-Moldavia
-vassal = {
-    first = TUR
-    second = MOL
     start_date = 1836.1.1
     end_date = 1859.1.24    # Reunification of Wallachia and Moldavia
 }
@@ -493,37 +492,51 @@ vassal = {
 vassal = {
     first = TUR
     second = EGY
-    start_date = 1836.1.1
-    end_date = 1840.7.1    # the Oriental Crisis
+    start_date = 1810.1.1
+    end_date = 1815.7.1    # the Oriental Crisis
 }
 
 # Egypt-Hedjaz
 vassal = {
-    first = EGY
+    first = NEJ
     second = HDJ
-    start_date = 1836.1.1
+    start_date = 1800.1.1
     end_date = 1840.7.1
 }
 
 # Egypt-Ha'il
 vassal = {
-    first = EGY
+    first = NEJ
     second = HAL
-    start_date = 1836.1.1
+    start_date = 1800.1.1
     end_date = 1840.7.1
 }
 
+#Trucial States
+vassal = {
+    first = NEJ
+    second = DUB
+    start_date = 1815.1.1
+    end_date = 1848.12.12
+}
+
+vassal = {
+    first = NEJ
+    second = QSM
+    start_date = 1815.1.1
+    end_date = 1848.12.12
+}
+
+vassal = {
+    first = NEJ
+    second = ABU
+    start_date = 1815.1.1
+    end_date = 1848.12.12
+}
 
 #######################
 #        INDIA        #
 #######################
-# United Kingdom-Mughal
-vassal = {
-    first = ENG
-    second = MUG
-    start_date = 1805.1.1
-    end_date = 1936.1.1
-}
 
 # United Kingdom-Bahawalpur
 vassal = {
@@ -740,26 +753,10 @@ vassal = {
     end_date = 1937.1.1
 }
 
-#China - Tannu Tuva
-vassal = {
-    first = QNG
-    second = TNT
-    start_date = 1836.1.1
-    end_date = 1937.1.1
-}
-
 #China - Yunnan
 substate = {
     first = QNG
     second = YNN
-    start_date = 1836.1.1
-    end_date = 1937.1.1
-}
-
-#China - Manchuria
-substate = {
-    first = QNG
-    second = MCK
     start_date = 1836.1.1
     end_date = 1937.1.1
 }
@@ -772,44 +769,12 @@ substate = {
     end_date = 1937.1.1
 }
 
-#China - Inner Mongolia
-substate = {
-    first = QNG
-    second = IMG
-    start_date = 1691.1.1
-    end_date = 1937.1.1
-}
-
-#China/Mongolia
-vassal = {
-    first = QNG
-    second = MGL
-    start_date = 1691.1.1
-    end_date = 1937.1.1
-}
-
 # China/Tibet
 vassal = {
     first = QNG
     second = TIB
     start_date = 1815.11.9
     end_date = 1912.1.1
-}
-
-#China/Korea
-vassal = {
-    first = QNG
-    second = KOR
-    start_date = 1636.1.1
-    end_date = 1876.1.1
-}
-
-#China - Altai
-vassal = {
-    first = QNG
-    second = ALT
-    start_date = 1836.1.1
-    end_date = 1937.1.1
 }
 
 #China - Sichuan
@@ -820,6 +785,37 @@ substate = {
     end_date = 1937.1.1
 }
 
+#China - Inner Mongolia
+substate = {
+    first = QNG
+    second = IMG
+    start_date = 1691.1.1
+    end_date = 1937.1.1
+}
+
+#China - Tannu Tuva
+vassal = {
+    first = MGL
+    second = TNT
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+
+#China/Mongolia
+vassal = {
+    first = MGL
+    second = BRY
+    start_date = 1691.1.1
+    end_date = 1937.1.1
+}
+
+#China - Altai
+vassal = {
+    first = MGL
+    second = ALT
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
 
 #########1861
 # Siam - Cambodia
@@ -921,6 +917,13 @@ vassal = {
 #Iran
 vassal = {
     first = PER
+    second = TKM
+    start_date = 1815.1.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = PER
     second = BSR
     start_date = 1815.1.1
     end_date = 1936.1.1
@@ -963,51 +966,50 @@ vassal = {
 
 #Afghanistan
 vassal = {
-    first = AFG
+    first = PER
     second = KND
     start_date = 1815.1.1
     end_date = 1848.12.12
 }
 
 vassal = {
-    first = AFG
+    first = PER
+    second = MYN
+    start_date = 1815.1.1
+    end_date = 1848.12.12
+}
+
+Substate = {
+    first = MUG
+    second = PNJ
+    start_date = 1815.1.1
+    end_date = 1848.12.12
+}
+
+vassal = {
+    first = MUG
     second = KSN
     start_date = 1815.1.1
     end_date = 1848.12.12
 }
 
 vassal = {
-    first = AFG
+    first = MUG
     second = HNZ
     start_date = 1815.1.1
     end_date = 1848.12.12
 }
 
 vassal = {
-    first = AFG
+    first = MUG
+    second = AFG
+    start_date = 1815.1.1
+    end_date = 1848.12.12
+}
+
+vassal = {
+    first = MUG
     second = CRL
-    start_date = 1815.1.1
-    end_date = 1848.12.12
-}
-
-vassal = {
-    first = AFG
-    second = MYN
-    start_date = 1815.1.1
-    end_date = 1848.12.12
-}
-
-#Trucial States
-vassal = {
-    first = ABU
-    second = DUB
-    start_date = 1815.1.1
-    end_date = 1848.12.12
-}
-
-vassal = {
-    first = ABU
-    second = QSM
     start_date = 1815.1.1
     end_date = 1848.12.12
 }

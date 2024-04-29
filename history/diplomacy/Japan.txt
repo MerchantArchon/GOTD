@@ -38,12 +38,18 @@ substate = {
 substate = {
     first = TKG
     second = JAP
-    start_date = 1836.1.1
-    end_date = 1937.1.1
+    start_date = 1600.1.1
+    end_date = 1750.1.1
 }
 substate = {
     first = TKG
     second = SOC
+    start_date = 1836.1.1
+    end_date = 1937.1.1
+}
+vassal = {
+    first = TKG
+    second = KOR
     start_date = 1836.1.1
     end_date = 1937.1.1
 }

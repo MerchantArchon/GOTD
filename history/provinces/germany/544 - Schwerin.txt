@@ -1,5 +1,6 @@
-owner = MEC
-controller = MEC
+owner = NGF
+controller = NGF
+add_core = NGF
 add_core = MEC
 add_core = GER
 trade_goods = grain

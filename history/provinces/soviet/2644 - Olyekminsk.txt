@@ -1,3 +1,5 @@
+owner = TKG
+controller = TKG
 add_core = TKG
 add_core = YAK
 trade_goods = timber

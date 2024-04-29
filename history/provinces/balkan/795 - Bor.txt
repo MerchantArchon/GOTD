@@ -1,5 +1,6 @@
-owner = SER
-controller = SER
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = SER
 add_core = SIE
 trade_goods = grain

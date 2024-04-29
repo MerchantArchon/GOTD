@@ -1,5 +1,6 @@
-owner = BAD
-controller = BAD
+owner = BRG
+controller = BRG
+add_core = BRG
 add_core = BAD
 add_core = GER
 terrain = freiburg

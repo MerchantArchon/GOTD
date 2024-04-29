@@ -1,5 +1,6 @@
-owner = KOR
-controller = KOR
+owner = SAT
+controller = SAT
+add_core = SAT
 add_core = KOR
 trade_goods = grain
 life_rating = 31

@@ -1,5 +1,6 @@
-owner = BEL
-controller = BEL
+owner = BRG
+controller = BRG
+add_core = BRG
 add_core = BEL
 add_core = NET
 add_core = WLL

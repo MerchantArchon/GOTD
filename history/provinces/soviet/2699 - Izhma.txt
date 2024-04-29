@@ -1,6 +1,5 @@
 owner = PLR
 controller = PLR
-add_core = URA
 add_core = PLR
 trade_goods = timber
 terrain = boreal
