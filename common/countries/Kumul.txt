@@ -1,4 +1,4 @@
-color = { 189 208 127 }
+color = { 89 168 127 }
 #color = { 255  201  116 }
 graphical_culture = ChineseGC
 

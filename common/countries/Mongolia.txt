@@ -1,4 +1,4 @@
-color = { 129 118 157 }
+color = { 129 118 177 }
 absolute_empire = { 216 30 5 } 
 semi_constitutional_empire = { 216 30 5 } 
 constitutional_empire = { 216 30 5 } 

@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = TNG
+controller = TNG
+add_core = TNG
 add_core = PHL
 trade_goods = coffee
 life_rating = 40
