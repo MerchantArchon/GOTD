@@ -1,5 +1,6 @@
-owner = TCA
-controller = TCA
+owner = MKU
+controller = MKU
+add_core = MKU
 add_core = ARM
 add_core = AZB
 add_core = TCA

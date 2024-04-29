@@ -62,13 +62,6 @@ vassal = {
 
 vassal = {
     first = PER
-    second = TCA
-    start_date = 1817.1.1
-    end_date = 1865.1.1
-}
-
-vassal = {
-    first = PER
     second = AZB
     start_date = 1817.1.1
     end_date = 1865.1.1
@@ -501,6 +494,15 @@ vassal = {
     start_date = 1810.1.1
     end_date = 1815.7.1    # the Oriental Crisis
 }
+
+#Emirate of Mount Lebanon
+vassal = {
+    first = TUR
+    second = LBN
+    start_date = 1810.1.1
+    end_date = 1842.7.1   
+}
+
 
 # Egypt-Hedjaz
 vassal = {
