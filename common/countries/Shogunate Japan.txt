@@ -1,5 +1,5 @@
 #color = { 174 143 27 }
-color = { 174 143 27 }
+color = { 83 98 125 }
 prussian_constitutionalism = { 255 207 252 } 
 hms_government = { 255 207 252 } 
 absolute_empire = { 255 207 252 } 

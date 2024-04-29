@@ -7,6 +7,9 @@ CLN        = "countries/Cleanup.txt"
 
 ### NEW NATIONS MOD ###
 
+#Hanse, From TOL
+HNS = "countries/Hanse.txt"
+
 ###France Mod###
 NZF        = "countries/French New Zealand.txt"
 FAS        = "countries/French Australia.txt"
