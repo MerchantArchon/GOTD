@@ -1,7 +1,8 @@
 owner = NGF
 controller = NGF
 add_core = NGF
-add_core = HAN
+add_core = BRN
+add_core = PRU
 add_core = GER
 add_core = FRI
 trade_goods = fish

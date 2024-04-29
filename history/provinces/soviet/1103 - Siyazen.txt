@@ -1,5 +1,5 @@
-owner = PLR
-controller = PLR
+owner = PER
+controller = PER
 add_core = AZB
 add_core = DAG
 trade_goods = fruit

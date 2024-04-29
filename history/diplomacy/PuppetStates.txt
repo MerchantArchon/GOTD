@@ -60,6 +60,20 @@ vassal = {
     end_date = 1865.1.1
 }
 
+vassal = {
+    first = PER
+    second = TCA
+    start_date = 1836.1.1
+    end_date = 1865.1.1
+}
+
+vassal = {
+    first = PER
+    second = AZB
+    start_date = 1836.1.1
+    end_date = 1865.1.1
+}
+
 
 #Persia - Mukriyan
 vassal = {
@@ -270,24 +284,16 @@ vassal = {
     end_date = 1936.1.1
 }
 
-#Russia-Finland
 vassal = {
-    first = RUS
-    second = FIN
-    start_date = 1815.1.1
-    end_date = 1863.1.1
-}
-
-vassal = {
-    first = RUS
-    second = SVA
-    start_date = 1815.1.1
-    end_date = 1863.1.1
-}
-
-vassal = {
-    first = RUS
+    first = TUR
     second = MIG
+    start_date = 1815.1.1
+    end_date = 1870.1.1
+}
+
+vassal = {
+    first = TUR
+    second = GEO
     start_date = 1815.1.1
     end_date = 1870.1.1
 }

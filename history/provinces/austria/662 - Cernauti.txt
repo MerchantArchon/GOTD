@@ -1,5 +1,6 @@
-owner = PLR
-controller = PLR
+owner = CPL
+controller = CPL
+add_core = CPL
 add_core = PLR
 add_core = ROM
 add_core = RUT
