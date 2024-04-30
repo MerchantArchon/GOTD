@@ -11,6 +11,7 @@ CLN        = "countries/Cleanup.txt"
 ANN = "countries/Annam.txt"
 ARN = "countries/Aragon.txt"
 NRM = "countries/Normandy.txt"
+NSW = "countries/New South Wales.txt"
 
 #DOD Nations
 TNG = "countries/Tungning.txt"
