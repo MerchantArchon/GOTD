@@ -1,5 +1,5 @@
-owner = BHP
-controller = BHP
+owner = AFG
+controller = AFG
 add_core = BHP
 add_core = PNJ
 add_core = HND

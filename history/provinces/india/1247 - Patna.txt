@@ -1,5 +1,5 @@
-owner = MUG
-controller = MUG
+owner = BNG
+controller = BNG
 add_core = HND
 add_core = BIH
 trade_goods = opium
