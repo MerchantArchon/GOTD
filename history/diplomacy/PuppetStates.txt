@@ -220,17 +220,9 @@ vassal = {
     end_date = 1936.1.1
 }
 
-#Netherlands-Tidore Sultanate
-vassal = {
-    first = NET
-    second = MAL
-    start_date = 1817.1.1
-    end_date = 1936.1.1
-}
-
 #Netherlands-Yogyakarta/Surakarta Sultanate
 vassal = {
-    first = NET
+    first = BRG
     second = JAV
     start_date = 1817.1.1
     end_date = 1936.1.1
@@ -238,48 +230,8 @@ vassal = {
 
 #Netherlands-Siak Sultanate
 vassal = {
-    first = NET
+    first = ATJ
     second = SAK
-    start_date = 1817.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Siak Sultanate
-vassal = {
-    first = NET
-    second = DJA
-    start_date = 1817.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Riau-Lingga Sultanate
-vassal = {
-    first = NET
-    second = RIA
-    start_date = 1817.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Banjar Sultanate
-vassal = {
-    first = NET
-    second = KLM
-    start_date = 1817.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Sambas Sultanate
-vassal = {
-    first = NET
-    second = SBS
-    start_date = 1817.1.1
-    end_date = 1936.1.1
-}
-
-#Netherlands-Pontianak Sultanate
-vassal = {
-    first = NET
-    second = PTK
     start_date = 1817.1.1
     end_date = 1936.1.1
 }
@@ -372,14 +324,6 @@ substate = {
     second = RPL
     start_date = 1805.1.1
     end_date = 1936.1.1
-}
-
-# United Kingdom-Hanover
-vassal = {
-    first = ENG
-    second = HAN
-    start_date = 1814.10.1
-    end_date = 1837.1.1
 }
 
 # United Kingdom-Ionian Islands
@@ -617,22 +561,6 @@ vassal = {
     end_date = 1949.1.1
 }
 
-# United Kingdom-Assam
-vassal = {
-    first = ENG
-    second = ASM
-    start_date = 1817.1.1
-    end_date = 1949.1.1
-}
-
-# United Kingdom-Hyderabad
-vassal = {
-    first = ENG
-    second = HYD
-    start_date = 1798.1.1
-    end_date = 1949.1.1
-}
-
 # United Kingdom-Indore
 vassal = {
     first = ENG
@@ -704,14 +632,6 @@ vassal = {
     end_date = 1949.1.1
 }
 
-# United Kingdom-Orissa
-vassal = {
-    first = ENG
-    second = ORI
-    start_date = 1803.1.1
-    end_date = 1949.1.1
-}
-
 # United Kingdom-Travancore
 vassal = {
     first = ENG
@@ -729,9 +649,23 @@ vassal = {
 }
 
 vassal = {
-    first = ENG
+    first = BUR
     second = MNP
     start_date = 1803.1.1
+    end_date = 1949.1.1
+}
+
+vassal = {
+    first = BUR
+    second = ASM
+    start_date = 1817.1.1
+    end_date = 1949.1.1
+}
+
+vassal = {
+    first = BUR
+    second = KCH
+    start_date = 1817.1.1
     end_date = 1949.1.1
 }
 
@@ -742,6 +676,14 @@ vassal = {
     start_date = 1807.1.1
     end_date = 1863.1.1
 }
+
+vassal = {
+    first = DAI
+    second = CHK
+    start_date = 1807.1.1
+    end_date = 1863.1.1
+}
+
 
 ##########################China
 #China - Qinghai
@@ -849,9 +791,9 @@ vassal = {
     end_date = 1975.1.1
 }
 
-# Siam - Chiang Mai
+# Burma - Chiang Mai
 vassal = {
-    first = SIA
+    first = LUA
     second = SHA
     start_date = 1817.1.1
     end_date = 1936.1.1
@@ -999,6 +941,22 @@ Substate = {
     second = PNJ
     start_date = 1815.1.1
     end_date = 1848.12.12
+}
+
+# United Kingdom-Hyderabad
+vassal = {
+    first = MUG
+    second = HYD
+    start_date = 1798.1.1
+    end_date = 1949.1.1
+}
+
+# United Kingdom-Orissa
+vassal = {
+    first = MUG
+    second = ORI
+    start_date = 1803.1.1
+    end_date = 1949.1.1
 }
 
 vassal = {

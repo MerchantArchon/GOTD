@@ -1,8 +1,9 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = ARP
+controller = ARP
+add_core = ARP
 add_core = PRO
 add_core = OCC
+add_core = FRA
 trade_goods = coal
 life_rating = 30
 terrain = montane_forest

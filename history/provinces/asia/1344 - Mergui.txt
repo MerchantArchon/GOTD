@@ -1,5 +1,6 @@
-owner = EIC
-controller = EIC
+owner = PAT
+controller = PAT
+add_core = PAT
 add_core = KAR
 add_core = BUR
 trade_goods = fish

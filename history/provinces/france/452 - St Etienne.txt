@@ -1,7 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = ARP
+controller = ARP
 add_core = ARP
+add_core = FRA
 trade_goods = coal
 life_rating = 30
 railroad = 1

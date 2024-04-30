@@ -1,6 +1,5 @@
-owner = BAV
-controller = BAV
-add_core = BAV
+owner = FRK
+controller = FRK
 add_core = FRK
 add_core = GER
 trade_goods = timber

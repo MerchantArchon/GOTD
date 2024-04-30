@@ -1,5 +1,3 @@
-owner = BUR
-controller = BUR
 add_core = BUR
 add_core = KCH
 trade_goods = timber
