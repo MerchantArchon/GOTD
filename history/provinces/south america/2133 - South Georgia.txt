@@ -1,5 +1,5 @@
 trade_goods = fish
 life_rating = 5
 add_core = ENG
-add_core = ARC
+add_core = URU
 terrain = new_world_arctic

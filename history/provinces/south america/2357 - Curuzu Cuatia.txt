@@ -1,6 +1,6 @@
-owner = CRT
-controller = CRT
+owner = URU
+controller = URU
 add_core = CRT
-add_core = ARC
+add_core = URU
 trade_goods = cotton
 life_rating = 35

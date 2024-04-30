@@ -1,6 +1,7 @@
 owner = CLM
 controller = CLM
 add_core = CLM
+add_core = VNZ
 add_core = NIC
 add_core = MSK
 trade_goods = fish

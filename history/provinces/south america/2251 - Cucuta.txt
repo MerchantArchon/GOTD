@@ -1,6 +1,7 @@
 owner = CLM
 controller = CLM
 add_core = CLM
+add_core = VNZ
 trade_goods = coal
 terrain = montane_forest
 life_rating = 34

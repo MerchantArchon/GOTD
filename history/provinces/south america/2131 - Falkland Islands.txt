@@ -1,7 +1,7 @@
 owner = ENG
 controller = ENG
 add_core = ENG
-add_core = ARC
+add_core = URU
 trade_goods = cattle
 life_rating = 29
 colonial = 2

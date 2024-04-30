@@ -1,5 +1,6 @@
-owner = PRG
-controller = PRG
+owner = URU
+controller = URU
+add_core = URU
 add_core = PRG
 trade_goods = fruit
 life_rating = 31

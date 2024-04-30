@@ -244,6 +244,20 @@ vassal = {
 }
 
 vassal = {
+    first = MOR
+    second = GRN#D
+    start_date = 1815.1.1
+    end_date = 1870.1.1
+}
+
+vassal = {
+    first = MOR
+    second = WSA
+    start_date = 1815.1.1
+    end_date = 1870.1.1
+}
+
+vassal = {
     first = TUR
     second = MIG
     start_date = 1815.1.1

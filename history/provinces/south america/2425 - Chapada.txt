@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = PAA
+controller = PAA
+add_core = PAA
 add_core = MAR
 trade_goods = cattle
 terrain = new_world_semidesert

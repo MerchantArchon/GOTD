@@ -1,6 +1,6 @@
-owner = ARC
-controller = ARC
+owner = URU
+controller = URU
 add_core = SBA
-add_core = ARC
+add_core = URU
 trade_goods = cattle
 life_rating = 35

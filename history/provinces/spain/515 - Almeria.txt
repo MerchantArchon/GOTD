@@ -1,5 +1,6 @@
-owner = MOR
-controller = MOR
+owner = GRN#D
+controller = GRN#D
+add_core = GRN#D
 add_core = MOR
 #add_core = ADL
 trade_goods = iron

@@ -1,5 +1,5 @@
-owner = RGS
-controller = RGS
+owner = URU
+controller = URU
 add_core = RGS
 add_core = BRZ
 add_core = URU
