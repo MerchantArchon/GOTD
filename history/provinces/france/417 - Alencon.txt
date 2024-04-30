@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = NRM
+controller = NRM
+add_core = NRM
 add_core = FRA
  
 trade_goods = cattle

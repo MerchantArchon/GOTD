@@ -1,5 +1,5 @@
-owner = ION
-controller = ION
+owner = ARN
+controller = ARN
 add_core = ION
 add_core = GRE
 trade_goods = fish

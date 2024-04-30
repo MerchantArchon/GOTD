@@ -1,5 +1,5 @@
-owner = AUS
-controller = AUS
+owner = ARN
+controller = ARN
 add_core = CRO
 add_core = HUN
 trade_goods = iron

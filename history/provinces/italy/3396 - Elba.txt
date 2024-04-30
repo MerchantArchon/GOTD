@@ -1,5 +1,5 @@
-owner = TUS
-controller = TUS
+owner = ARN
+controller = ARN
 add_core = TUS
 add_core = ITA
 trade_goods = iron

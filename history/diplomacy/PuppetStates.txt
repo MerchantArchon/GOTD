@@ -108,6 +108,13 @@ vassal = {
     end_date = 1936.1.1
 }
 
+vassal = {
+    first = MOR
+    second = MAS
+    start_date = 1817.1.1
+    end_date = 1844.1.1
+}
+
 #Ottoman - Baban
 vassal = {
     first = TUR

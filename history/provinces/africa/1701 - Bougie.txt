@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = ARN
+controller = ARN
 add_core = ALD
 trade_goods = sugar
 life_rating = 35

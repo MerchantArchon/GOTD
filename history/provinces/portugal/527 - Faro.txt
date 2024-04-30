@@ -1,6 +1,7 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = MOR
+controller = MOR
+add_core = MOR
+#add_core = ADL
 trade_goods = fruit
 life_rating = 35
 terrain = faro

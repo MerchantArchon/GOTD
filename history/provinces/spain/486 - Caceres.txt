@@ -1,5 +1,8 @@
-owner = SPA
-controller = SPA
+owner = MOR
+controller = MOR
+add_core = MOR
+add_core = POR
 add_core = SPA
+#add_core = ADL
 trade_goods = fruit
 life_rating = 35

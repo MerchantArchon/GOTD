@@ -1,6 +1,7 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = MOR
+controller = MOR
+add_core = MOR
+#add_core = ADL
 trade_goods = cotton
 life_rating = 35
 terrain = cordova

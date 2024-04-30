@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = POR
+controller = POR
 trade_goods = fruit
 life_rating = 30
 colonial = 2

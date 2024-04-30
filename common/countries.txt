@@ -7,8 +7,12 @@ CLN        = "countries/Cleanup.txt"
 
 ### NEW NATIONS MOD ###
 
-#DOD Nations
+#More GFM Nations
+ANN = "countries/Annam.txt"
 ARN = "countries/Aragon.txt"
+NRM = "countries/Normandy.txt"
+
+#DOD Nations
 TNG = "countries/Tungning.txt"
 
 #TOL Nations

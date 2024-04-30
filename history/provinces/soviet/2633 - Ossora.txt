@@ -1,3 +1,4 @@
+add_core = AIN
 add_core = TKG
 add_core = KAM
 trade_goods = fish

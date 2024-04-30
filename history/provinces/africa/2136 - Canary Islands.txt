@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = SPA
+owner = MOR
+controller = MOR
+add_core = MOR
 add_core = CNR
 trade_goods = dye
 terrain = tenerife
