@@ -30,6 +30,7 @@ alliance = {
 }
 
 
+
 #Circassia and Caucasiam Imamate
 alliance = {
     first = SWI
