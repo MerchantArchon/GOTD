@@ -1,4 +1,5 @@
-color = { 207 20 43 }
+color = { 18 158 158 }
+#color = { 207 20 43 }
 absolute_monarchy = { 190 120 130 }
 prussian_constitutionalism = { 190 120 130 }
 hms_government = { 190 120 130 }

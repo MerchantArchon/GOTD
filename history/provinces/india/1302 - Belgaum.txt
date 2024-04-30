@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = EIC
+controller = EIC
 add_core = HND
 add_core = MAH
 add_core = MYS

@@ -1,5 +1,5 @@
-owner = EIC
-controller = EIC
+owner = BRG
+controller = BRG
 add_core = SRI
 trade_goods = coffee
 life_rating = 33
