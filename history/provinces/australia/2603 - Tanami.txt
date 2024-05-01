@@ -1,3 +1,4 @@
+add_core = FAS
 add_core = NSW
 trade_goods = wool
 terrain = semidesert

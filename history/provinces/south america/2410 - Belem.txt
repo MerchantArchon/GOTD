@@ -1,6 +1,7 @@
 owner = PAA
 controller = PAA
 add_core = PAA
+add_core = BRZ
 trade_goods = sugar
 terrain = belem
 life_rating = 30

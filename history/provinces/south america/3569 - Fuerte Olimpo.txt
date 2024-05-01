@@ -1,6 +1,8 @@
-owner = URU
-controller = URU
-add_core = URU
+owner = BRZ
+controller = BRZ
+add_core = BRZ
+add_core = BOL
+add_core = PEU
 add_core = PRG
 trade_goods = cattle
 terrain = plains

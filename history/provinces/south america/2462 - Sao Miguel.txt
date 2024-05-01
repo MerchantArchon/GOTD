@@ -4,6 +4,7 @@ add_core = CRT
 add_core = URU
 add_core = SAP
 add_core = SAC
+add_core = BRZ
 terrain = jungle_hills
 trade_goods = tea
 life_rating = 25

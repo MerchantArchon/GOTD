@@ -1,7 +1,6 @@
-owner = PLR
-controller = PLR
+owner = CAL
+controller = CAL
 add_core = CAL
-add_core = LSK
 add_core = MEX
 trade_goods = grain
 colonial = 2

@@ -4,6 +4,7 @@ add_core = CPL
 add_core = PLR
 add_core = MOL
 add_core = ROM
+add_core = UKR
 trade_goods = fruit
 life_rating = 35
 terrain = chisinau
