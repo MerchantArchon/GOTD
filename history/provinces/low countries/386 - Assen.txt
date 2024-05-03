@@ -2,6 +2,6 @@ owner = BRG
 controller = BRG
 add_core = BRG
 add_core = NET
-add_core =HNS
+add_core = BEL
 trade_goods = wool
 life_rating = 35

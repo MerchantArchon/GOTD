@@ -1,9 +1,9 @@
 owner = BRG
 controller = BRG
 add_core = BRG
-add_core = NET
-add_core = BEL
 add_core = LBG
+add_core = WLL
+add_core = BEL
 trade_goods = coal
 life_rating = 35
 terrain = maastricht

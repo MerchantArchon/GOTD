@@ -2,6 +2,7 @@ owner = BRG
 controller = BRG
 add_core = BRG
 add_core = BAD
+add_core = ALS
 add_core = GER
 terrain = freiburg
 trade_goods = timber

@@ -1,5 +1,6 @@
 owner = BRG
 controller = BRG
+add_core = OMA
 add_core = FAS
 add_core = NSW
 trade_goods = grain

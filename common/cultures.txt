@@ -427,6 +427,7 @@ beneluxian = {
         Foch Forey "Franchet d'Esp�rey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
         Jaur�s Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle P�llissier Petain Vaillant }
     }
+    union = BEL
 }
 
 #pan_swiss = {

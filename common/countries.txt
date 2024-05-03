@@ -12,6 +12,7 @@ ANN = "countries/Annam.txt"
 ARN = "countries/Aragon.txt"
 NRM = "countries/Normandy.txt"
 NSW = "countries/New South Wales.txt"
+PIC = "countries/Picardie.txt"
 #GRD = "countries/Grenada.txt"
 
 #DOD Nations

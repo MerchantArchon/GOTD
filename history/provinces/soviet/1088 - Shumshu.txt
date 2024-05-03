@@ -1,5 +1,4 @@
 add_core = AIN
-add_core = TKG
 trade_goods = coal
 life_rating = 15
 colonial = 1

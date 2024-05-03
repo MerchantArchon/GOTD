@@ -2,7 +2,6 @@ owner = BRG
 controller = BRG
 add_core = BRG
 add_core = ALS
-add_core = LOR
 trade_goods = sulphur
 life_rating = 31
 terrain = forest_hills
