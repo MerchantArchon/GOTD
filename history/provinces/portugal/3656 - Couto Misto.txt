@@ -1,6 +1,7 @@
-#owner = CMT
-#controller = CMT
-#add_core = CMT
+owner = CTM
+controller = CTM
+add_core = CTM
+add_core = POR
 trade_goods = timber
 life_rating = 30
 terrain = forest_hills #couto_misto

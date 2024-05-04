@@ -191,7 +191,7 @@ BEL_387 = { 388 389 390 393 3344 } #Flanders
 
 BEL_394 = { 394 392 387 3383 3343} #Wallonia
 
-BEL_395 = { 395 391 381 } #Liege-Overmaas
+BEL_395 = { 395 391 381 577 } #Liege-Overmaas
 
 BEL_397 = { 397 398 396 3379 } #Luxembourg
 
@@ -202,7 +202,7 @@ FRA_399 = { 402 3314 } #Picardie
 
 FRA_406 = { 406 408 407 2622 3674 3682 } #Champagne
 
-FRA_404 = { 399 400 401 404 = } #Nord-Pas-De-Calais/Artois
+FRA_404 = { 399 400 401 404 } #Nord-Pas-De-Calais/Artois
 
 FRA_411 = { 411 413 414 405 433 } #Lorraine
 
@@ -294,7 +294,7 @@ HES_2560 = { 564 565 566 567 568 2560 3257 3270 } #Hessen
 
 PRU_570 = { 570 573 574 571 } #Palatinate
 
-PRU_575 = { 575 576 577 572 } #Rheinland
+PRU_575 = { 575 576 572 } #Rheinland
 
 PRU_578 = { 578 579 2561 3265 } #Eastern Rheinland
 

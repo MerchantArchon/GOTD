@@ -1,8 +1,9 @@
 owner = FRA
 controller = FRA
+add_core = GYN
+add_core = BSQ
 add_core = OCC
 add_core = FRA
-add_core = BSQ
 trade_goods = wool
 life_rating = 30
 terrain = bayonne

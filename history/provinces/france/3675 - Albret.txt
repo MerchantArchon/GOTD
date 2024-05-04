@@ -1,0 +1,8 @@
+owner = ABT
+controller = ABT
+add_core = ABT
+add_core = GYN
+add_core = OCC
+add_core = FRA
+trade_goods = grain
+life_rating = 30

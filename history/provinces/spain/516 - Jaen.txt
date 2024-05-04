@@ -1,8 +1,8 @@
-owner = GND
-controller = GND
-add_core = GND
+owner = GRD
+controller = GRD
+add_core = GRD
 add_core = MOR
-#add_core = ADL
+add_core = ANL
 trade_goods = iron
 life_rating = 35
 terrain = jaen

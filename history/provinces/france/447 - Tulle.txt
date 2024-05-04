@@ -1,6 +1,8 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = POI
+controller = POI
+add_core = POI
+add_core = GYN
 add_core = OCC
+add_core = FRA
 trade_goods = fruit
 life_rating = 30

@@ -1,6 +1,5 @@
-owner = BOB
-controller = BOB
-add_core = BOB
+owner = FRA
+controller = FRA
 add_core = FRA
 trade_goods = grain
 life_rating = 30
