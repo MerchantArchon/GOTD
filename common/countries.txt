@@ -7,13 +7,25 @@ CLN        = "countries/Cleanup.txt"
 
 ### NEW NATIONS MOD ###
 
+#New GOTD Nations
+
 #More GFM Nations
 ANN = "countries/Annam.txt"
 ARN = "countries/Aragon.txt"
 NRM = "countries/Normandy.txt"
 NSW = "countries/New South Wales.txt"
 PIC = "countries/Picardie.txt"
-#GRD = "countries/Grenada.txt"
+CPG = "countries/Champagne.txt"
+IDF = "countries/Ile-de-France.txt"
+RAE = "countries/Raetia.txt"
+VLS = "countries/Valais.txt"
+ORL = "countries/Orleans.txt"
+BOB = "countries/Bourbonnais.txt"
+AUV = "countries/Auvergne.txt"
+POI = "countries/Poitou.txt"
+MNE = "countries/Maine.txt"
+MAI = "countries/Mainz.txt"
+GND = "countries/Grenada.txt"
 
 #DOD Nations
 TNG = "countries/Tungning.txt"
@@ -29,7 +41,7 @@ ULA        = "countries/Louisiana.txt"
 EIC        = "countries/East India Company.txt"
 OCC        = "countries/Occitania.txt"
 ACA        = "countries/Acadia.txt"
-BOR        = "countries/The Kingdom of France.txt"
+#BOR        = "countries/The Kingdom of France.txt"
 
 
 ##HFM New Nations

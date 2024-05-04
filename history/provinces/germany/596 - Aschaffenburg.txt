@@ -1,5 +1,6 @@
-owner = FRK
-controller = FRK
+owner = MAI
+controller = MAI
+add_core = MAI
 add_core = FRK
 add_core = GER
 trade_goods = timber

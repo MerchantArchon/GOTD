@@ -1,7 +1,8 @@
-owner = PRO
-controller = PRO
-add_core = FRA
+owner = ARP
+controller = ARP
+add_core = ARP
 add_core = PRO
 add_core = OCC
+add_core = FRA
 trade_goods = cattle
 life_rating = 30

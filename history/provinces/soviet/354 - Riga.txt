@@ -1,8 +1,9 @@
-owner =HNS
-controller =HNS
-add_core =HNS
+owner = HNS
+controller = HNS
+add_core = HNS
 add_core = UBD
 add_core = LAT
+add_core = PLR
 trade_goods = fish
 life_rating = 40
 terrain = riga

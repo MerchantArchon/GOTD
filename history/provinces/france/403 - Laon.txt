@@ -1,6 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner = ORL
+controller = ORL
+add_core = ORL
 add_core = FRA
 trade_goods = timber
 life_rating = 30

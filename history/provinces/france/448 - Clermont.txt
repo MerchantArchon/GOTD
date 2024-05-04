@@ -1,7 +1,8 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = AUV
+controller = AUV
+add_core = AUV
 add_core = OCC
+add_core = FRA
 terrain = clermont_ferrand
 trade_goods = coal
 life_rating = 30

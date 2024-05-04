@@ -2,5 +2,6 @@ owner = UBD
 controller = UBD
 add_core = UBD
 add_core = LAT
+add_core = PLR
 trade_goods = cattle
 life_rating = 35

@@ -1,6 +1,5 @@
-owner =HNS
-controller =HNS
-add_core =HNS
+owner = UBD
+controller = UBD
 add_core = UBD
 add_core = EST
 trade_goods = fish

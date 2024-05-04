@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = ARN
+controller = ARN
+add_core = ARN
 add_core = OCC
 add_core = FRA
 terrain = montpellier

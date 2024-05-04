@@ -198,11 +198,11 @@ BEL_397 = { 397 398 396 3379 } #Luxembourg
 
 ### France
 
-FRA_399 = { 403 402 2570 } #Picardie
+FRA_399 = { 402 3314 } #Picardie
 
-FRA_406 = { 406 408 407 2622 3674 } #Champagne
+FRA_406 = { 406 408 407 2622 3674 3682 } #Champagne
 
-FRA_404 = { 399 400 401 404 3314 } #Nord-Pas-De-Calais/Artois
+FRA_404 = { 399 400 401 404 = } #Nord-Pas-De-Calais/Artois
 
 FRA_411 = { 411 413 414 405 433 } #Lorraine
 
@@ -214,29 +214,29 @@ FRA_418 = { 418 415 416 417 3408 } #Normandie
 
 FRA_420 = { 420 421 422 423 424 } #Bretagne
 
-FRA_425 = { 425 426 427 3399 3671 } #Ile de France
+FRA_425 = { 403 425 427 2570 3399 3671 } #Ile de France
 
-FRA_428 = { 428 429 430 431 } #Bourgogne
+FRA_428 = { 428 429 431 439 451 } #Bourgogne
 
-FRA_435 = { 435 437 436 3673} #Loire
+FRA_435 = { 435 436 3673 } #Loire
 
-FRA_438 = { 438 439 440 441 } #Region Centre
+FRA_438 = { 426 438 440 441 3679 3681 } #Region Centre
 
-FRA_442 = { 442 444 443 434 } #Poitou
+FRA_442 = { 442 444 443 437 434 3678 } #Poitou
 
-FRA_445 = { 445 446 447 448 } #Limousin
+FRA_445 = { 445 430 446 447 448 } #Limousin
 
-FRA_451 = { 451 452 453 454 3313 } #Rhone
+FRA_451 = { 452 453 454 469 3313 3680 } #Rhone
 
-FRA_455 = { 455 457 456 450 462 3672 } #Le Midi
+FRA_455 = { 455 457 450 462 3672 } #Le Midi
 
-FRA_458 = { 458 459 460 3472 } #Aquitaine
+FRA_458 = { 458 459 460 3472 3675 3676 3677 } #Aquitaine
 
-FRA_461 = { 461 463 464 449 } #Languedoc
+FRA_461 = { 461 463 464 456 449 } #Languedoc
 
 SAR_466 = { 465 466 472 3251} #Savoie
 
-FRA_467 = { 467 469 470 471 3432 3655} #Provence
+FRA_467 = { 467 470 471 3432 3655 } #Provence
 
 
 ### Spain & Portugal
@@ -310,11 +310,11 @@ BAV_599 = { 599 592 600 601 602 } #Upper Bavaria
 
 #BAV_601 = { 601 602 } #Lower Bavaria
 
-SWI_603 = { 603 606 605 604 611 3272 } #Swiss Mittelland
+SWI_603 = { 603 606 605 604 3272 } #Swiss Mittelland
 
 SWI_607 = { 607 608 609 3250 3271 3317 } #Région Lémanique
 
-SWI_2568 = { 2568 2669 3666} #Alpen
+SWI_2568 = { 611 2568 2669 3666 } #Alpen
 
 PRU_682 = { 682 683 3336 3337 } #Lower Silesia
 

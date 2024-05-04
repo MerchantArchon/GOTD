@@ -1,5 +1,7 @@
-owner = FRA
-controller = FRA
+owner = ARN
+controller = ARN
+add_core = ARN
+add_core = IDF
 add_core = FRA
 trade_goods = grain
 life_rating = 40

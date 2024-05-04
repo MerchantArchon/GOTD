@@ -1,6 +1,6 @@
-owner = BRG
-controller = BRG
-add_core = BRG
+owner= CPG
+controller= CPG
+add_core= CPG
 add_core = FRA
 trade_goods = cattle
 life_rating = 30

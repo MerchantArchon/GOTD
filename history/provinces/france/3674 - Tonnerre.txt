@@ -1,5 +1,6 @@
-owner = BRG
-controller = BRG
+owner = CPG
+controller = CPG
+add_core = CPG
 add_core = BRG
 add_core = FRA
 trade_goods = fruit

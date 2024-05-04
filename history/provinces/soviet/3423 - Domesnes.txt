@@ -1,5 +1,5 @@
-owner =HNS
-controller =HNS
+owner = LAT
+controller = LAT
 add_core = UBD
 add_core = LAT
 add_core = PLR

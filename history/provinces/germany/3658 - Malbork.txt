@@ -1,7 +1,7 @@
 owner = CPL
 controller = CPL
 add_core = CPL
-add_core =HNS
+add_core = HNS
 add_core = PRU
 add_core = GER
 add_core = PLR

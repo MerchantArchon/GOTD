@@ -1,7 +1,8 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = ARN
+controller = ARN
+add_core = ARN
 add_core = OCC
+add_core = FRA
 trade_goods = fruit
 life_rating = 30
 terrain = forest_hills

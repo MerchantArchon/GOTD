@@ -1,6 +1,6 @@
-owner = GRN#D
-controller = GRN#D
-add_core = GRN#D
+owner = GND
+controller = GND
+add_core = GND
 add_core = MOR
 #add_core = ADL
 trade_goods = iron
