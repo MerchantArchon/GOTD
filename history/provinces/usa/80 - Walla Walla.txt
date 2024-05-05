@@ -1,7 +1,4 @@
-owner = USA
-controller = USA
-add_core = COL
-add_core = USA
+add_core = CAL
 trade_goods = timber
 terrain = wallawalla
 life_rating = 35

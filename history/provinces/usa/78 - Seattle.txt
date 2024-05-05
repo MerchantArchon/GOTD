@@ -1,6 +1,6 @@
-owner = RPL
-controller = RPL
-add_core = COL
+owner = CAL
+controller = CAL
+add_core = CAL
 trade_goods = timber
 terrain = seattle
 life_rating = 35

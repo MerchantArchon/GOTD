@@ -41,6 +41,7 @@ GOT = "countries/Gotland.txt"
 LGD = "countries/Languedoc.txt"
 FLO = "countries/Florida.txt"
 CST = "countries/Castile.txt"
+KOS = "countries/Kosovo.txt"
 
 
 #DOD Nations

@@ -1,5 +1,6 @@
-owner = TUR
-controller = TUR
+owner = GRR
+controller = GRR
+add_core = GRR
 add_core = GRE
 trade_goods = cotton
 life_rating = 35
