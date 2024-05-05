@@ -9,11 +9,15 @@ CLN        = "countries/Cleanup.txt"
 
 #New GOTD Nations
 ABT = "countries/Albret.txt"
+AGL = "countries/Angoumois.txt"
 ALC = "countries/Alencon.txt"
 CTM = "countries/Couto Misto.txt"
+FOX = "countries/Foix.txt"
 GRD = "countries/Granada.txt"
 GYN = "countries/Guyenne.txt"
 HEH = "countries/Hechingen.txt"
+ROD = "countries/Rodez.txt"
+VFR = "countries/Vendome-Forez.txt"
 
 #More GFM Nations
 ANN = "countries/Annam.txt"
@@ -34,6 +38,7 @@ MAI = "countries/Mainz.txt"
 LIG = "countries/Liege.txt"
 ANL = "countries/Al Andalus.txt"
 GOT = "countries/Gotland.txt"
+LGD = "countries/Languedoc.txt"
 
 
 #DOD Nations

@@ -1,6 +1,6 @@
-owner = ARN
-controller = ARN
-#add_core = ARN
+owner = FOX
+controller = FOX
+add_core = FOX
 add_core = GYN
 add_core = BSQ
 add_core = OCC

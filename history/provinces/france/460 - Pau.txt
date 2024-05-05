@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = FOX
+controller = FOX
+add_core = FOX
 add_core = GYN
 add_core = OCC
 add_core = FRA

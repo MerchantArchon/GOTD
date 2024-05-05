@@ -1,6 +1,6 @@
-owner = ARN
-controller = ARN
-add_core = ARN
+owner = LGD
+controller = LGD
+add_core = LGD
 add_core = OCC
 add_core = FRA
 trade_goods = grain

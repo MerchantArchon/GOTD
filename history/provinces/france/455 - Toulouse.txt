@@ -1,6 +1,6 @@
-owner = ARN
-controller = ARN
-add_core = ARN
+owner = ROD
+controller = ROD
+add_core = ROD
 add_core = OCC
 add_core = FRA
 trade_goods = cotton

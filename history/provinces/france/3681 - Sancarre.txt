@@ -1,0 +1,6 @@
+owner = ARP
+controller = ARP
+add_core = ARP
+add_core = FRA
+trade_goods = timber
+life_rating = 30

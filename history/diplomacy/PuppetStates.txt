@@ -340,6 +340,24 @@ vassal = {
     start_date = 1808.1.1
     end_date = 1936.1.1
 }
+vassal = {
+    first = ARN
+    second = FOX
+    start_date = 1808.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARN
+    second = LGD
+    start_date = 1808.1.1
+    end_date = 1936.1.1
+}
+vassal = {
+    first = ARN
+    second = ROD
+    start_date = 1808.1.1
+    end_date = 1936.1.1
+}
 
 ##Substates of the Argentine Confederation
 substate = {
