@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = CRB
+owner = MEX
+controller = MEX
+add_core = MEX
+add_core = CUB
 trade_goods = fruit
 life_rating = 35
 colonial = 2

@@ -1,5 +1,6 @@
-owner = CLM
-controller = CLM
+owner = MEX
+controller = MEX
+add_core = MEX
 add_core = CLM
 add_core = VNZ
 trade_goods = sugar
