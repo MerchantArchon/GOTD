@@ -1,6 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = HNS
+controller = HNS
+add_core = FLO
 
 trade_goods = cotton
 life_rating = 35

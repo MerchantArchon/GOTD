@@ -39,6 +39,8 @@ LIG = "countries/Liege.txt"
 ANL = "countries/Al Andalus.txt"
 GOT = "countries/Gotland.txt"
 LGD = "countries/Languedoc.txt"
+FLO = "countries/Florida.txt"
+CST = "countries/Castile.txt"
 
 
 #DOD Nations
