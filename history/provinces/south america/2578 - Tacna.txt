@@ -1,6 +1,6 @@
-owner = PEU
-controller = PEU
-add_core = PEU
+owner = BOL
+controller = BOL
+add_core = BOL
 trade_goods = sulphur
 terrain = tacna
 life_rating = 31

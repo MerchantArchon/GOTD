@@ -1,3 +1,5 @@
+add_core = CHL
+add_core = ARG
 trade_goods = cattle
 terrain = savanna
 life_rating = 15

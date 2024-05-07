@@ -1,3 +1,6 @@
+add_core = CHL
+add_core = URU
+add_core = PTG
 trade_goods = wool
 terrain = santacruz
 life_rating = 15

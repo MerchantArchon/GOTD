@@ -1,6 +1,7 @@
-owner = PEU
-controller = PEU
-add_core = PEU
+owner = BOL
+controller = BOL
+add_core = BOL
+add_core = CHL
 trade_goods = sulphur
 terrain = arica
 life_rating = 31

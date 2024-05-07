@@ -1,7 +1,8 @@
-owner = PEU
-controller = PEU
+owner = BOL
+controller = BOL
+add_core = SPU
 add_core = BOL
-add_core = PEU
+add_core = CHL
 trade_goods = sulphur
 terrain = coastal_desert
 life_rating = 15

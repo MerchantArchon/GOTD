@@ -1,5 +1,5 @@
-owner = URU
-controller = URU
+owner = ENG
+controller = ENG
 add_core = CRT
 add_core = URU
 trade_goods = cattle

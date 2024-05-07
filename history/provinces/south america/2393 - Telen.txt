@@ -1,3 +1,6 @@
+add_core = SBA
+add_core = URU
+add_core = PTG
 trade_goods = wool
 terrain = plains
 life_rating = 15

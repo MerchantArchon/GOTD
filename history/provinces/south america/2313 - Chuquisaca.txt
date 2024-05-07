@@ -1,7 +1,7 @@
-owner = ARC
-controller = ARC
-add_core = ARC
+owner = CHL
+controller = CHL
+add_core = CHL
+add_core = SPU
 add_core = BOL
-add_core = PEU
 trade_goods = wool
 life_rating = 35

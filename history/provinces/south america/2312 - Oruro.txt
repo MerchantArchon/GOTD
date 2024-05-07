@@ -1,7 +1,8 @@
-owner = PEU
-controller = PEU
+owner = BOL
+controller = BOL
+add_core = SPU
 add_core = BOL
-add_core = PEU
+add_core = CHL
 trade_goods = iron
 life_rating = 31
 terrain = semi_desert_mountains
