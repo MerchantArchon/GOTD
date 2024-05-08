@@ -429,6 +429,15 @@ substate = {
     end_date = 1881.1.1
 }
 
+#Five Civilised Tribes
+vassal = {
+    first = CSA
+    second = CHE
+    start_date = 1801.1.1
+    end_date = 1881.1.1
+}
+
+
 #Russia Substate
 substate = {
     first = PLR
@@ -446,6 +455,18 @@ substate = {
 substate = {
     first = PLR
     second = UBD
+    start_date = 1801.1.1
+    end_date = 1881.1.1
+}
+substate = {
+    first = PLR
+    second = DZG
+    start_date = 1801.1.1
+    end_date = 1881.1.1
+}
+substate = {
+    first = PLR
+    second = MOL
     start_date = 1801.1.1
     end_date = 1881.1.1
 }

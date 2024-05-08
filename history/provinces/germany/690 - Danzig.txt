@@ -1,5 +1,5 @@
-owner = CPL
-controller = CPL
+owner = DZG
+controller = DZG
 add_core = HNS
 add_core = GER
 add_core = DZG
