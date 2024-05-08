@@ -46,6 +46,7 @@ KOS = "countries/Kosovo.txt"
 
 #DOD Nations
 TNG = "countries/Tungning.txt"
+IRO = "countries/Iroquois.txt"
 
 #TOL Nations
 HNS = "countries/Hanse.txt"

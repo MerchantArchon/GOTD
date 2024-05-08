@@ -342,7 +342,7 @@ migration_target = {
         factor = 2.5
         OR = {
             is_core = MEX
-            is_core = CAN
+            is_core = IRO
             is_core = COL
             is_core = RPL
         }

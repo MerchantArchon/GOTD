@@ -2,11 +2,11 @@ color = { 180 60 60 }
 #color = { 194  53  60 }
 #color = { 232  26  63 }
 absolute_monarchy = { 180 60 60 }
-prussian_constitutionalism = color = { 169  70  84 }#{ 232  26  63 }
-hms_government = color = { 169  70  84 }#{ 232  26  63 }
+prussian_constitutionalism = { 169  70  84 }#{ 232  26  63 }
+hms_government = { 169  70  84 }#{ 232  26  63 }
 absolute_empire = { 180 60 60 }
-semi_constitutional_empire = color = { 169  70  84 }#{ 232  26  63 }
-constitutional_empire = color = { 169  70  84 }#{ 232  26  63 }
+semi_constitutional_empire = { 169  70  84 }#{ 232  26  63 }
+constitutional_empire = { 169  70  84 }#{ 232  26  63 }
 proletarian_dictatorship = { 199  67  44 }
 democracy = { 244  121  158 }
 fascist_dictatorship = { 248 51 22 }

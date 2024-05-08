@@ -1,6 +1,5 @@
-owner = RPL
-controller = RPL
-add_core = RPL
+
+add_core = QUE
 colonial = 2
 add_core = MTC
 trade_goods = grain

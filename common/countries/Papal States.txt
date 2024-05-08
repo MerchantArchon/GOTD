@@ -1,4 +1,5 @@
 color = { 229 150 87 }
+theocracy = { 211  220  178 }
 graphical_culture = ItalianGC
 
 party = {

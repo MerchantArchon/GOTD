@@ -1,4 +1,4 @@
-add_core = DEN
+add_core = DNN
 add_core = ICL
 trade_goods = fish
 life_rating = 1

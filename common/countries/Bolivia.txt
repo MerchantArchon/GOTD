@@ -1,4 +1,10 @@
 color = { 219  182  182 }
+absolute_monarchy = { 153  122  108 }
+prussian_constitutionalism = color = { 153  122  108 }
+hms_government = color = { 153  122  108 }
+absolute_empire = { 153  122  108 }
+semi_constitutional_empire = { 153  122  108 }
+constitutional_empire = { 153  122  108 }
 graphical_culture = SouthAmericanGC
 
 party = {

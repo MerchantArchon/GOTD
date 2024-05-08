@@ -1,4 +1,7 @@
-color = { 166  224  85 }
+color = { 57 105 49 }
+colonial_company = { 239  96  88 }
+dominion = { 239  96  88 }
+proletarian_dictatorship = { 166  224  85 }
 graphical_culture = BritishGC
 
 party = {

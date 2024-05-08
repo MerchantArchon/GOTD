@@ -1,5 +1,5 @@
-owner = PLR
-controller = PLR
+owner = CHY
+controller = CHY
 add_core = CHY
 add_core = DAG
 trade_goods = grain

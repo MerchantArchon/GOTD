@@ -1,4 +1,4 @@
-color = { 102  178  202 }
+color = { 88  137  172 }
 #color = { 35 54 2 }
 graphical_culture = MiddleEasternGC
 

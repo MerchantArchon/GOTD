@@ -1,6 +1,6 @@
-owner = CAN
-controller = CAN
-add_core = CAN
+owner = IRO
+controller = IRO
+add_core = IRO
 trade_goods = tobacco
 life_rating = 35
 party_loyalty = {

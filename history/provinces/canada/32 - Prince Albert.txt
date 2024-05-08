@@ -1,3 +1,4 @@
+add_core = QUE
 add_core = MTC
 trade_goods = timber
 terrain = new_world_boreal

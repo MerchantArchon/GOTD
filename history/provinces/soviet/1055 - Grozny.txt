@@ -1,5 +1,5 @@
-owner = DAG
-controller = DAG
+owner = CHY
+controller = CHY
 add_core = CHY
 add_core = DAG
 trade_goods = grain
