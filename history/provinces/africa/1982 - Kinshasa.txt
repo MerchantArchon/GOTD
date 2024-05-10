@@ -1,5 +1,5 @@
-owner = KON
-controller = KON
+owner = UPB
+controller = UPB
 add_core = KON
 terrain = plains
 trade_goods = fruit

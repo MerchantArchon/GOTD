@@ -1,7 +1,7 @@
 owner = CSA
 controller = CSA
 add_core = CSA
-
+add_core = LIB
 trade_goods = tobacco
 terrain = richmond
 life_rating = 35

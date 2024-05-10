@@ -1,5 +1,5 @@
-owner = BRZ
-controller = BRZ
+owner = UPB
+controller = UPB
 add_core = BRZ
 add_core = MGR
 trade_goods = cattle

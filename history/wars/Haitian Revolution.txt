@@ -1,0 +1,23 @@
+name = "The Haitian Revolt"
+
+1803.10.2 = {
+    add_attacker = UPB
+    add_defender = HAI
+
+    # actor
+    # receiver
+    # casus_belli - cb type
+    # country - 3rd party
+    # state_province_id - target state capital
+    war_goal = {
+        casus_belli = conquest
+        actor = UPB
+        receiver = HAI
+    }
+
+}
+
+1820.4.21 = {
+    rem_attacker = UPB
+    rem_defender = HAI
+}

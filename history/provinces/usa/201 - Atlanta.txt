@@ -2,6 +2,7 @@ owner = CHE
 controller = CHE
 add_core = CHE
 add_core = CSA
+add_core = LIB
 trade_goods = cotton
 life_rating = 35
 terrain = atlanta

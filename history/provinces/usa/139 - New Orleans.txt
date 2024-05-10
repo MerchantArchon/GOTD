@@ -1,8 +1,8 @@
 owner = CSA
 controller = CSA
 add_core = CSA
-
 add_core = ULA
+add_core = LIB
 trade_goods = sugar
 life_rating = 35
 terrain = neworleans

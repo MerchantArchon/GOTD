@@ -1,5 +1,5 @@
-owner = BRG
-controller = BRG
+owner = UPB
+controller = UPB
 add_core = ASH
 trade_goods = cattle
 life_rating = 35

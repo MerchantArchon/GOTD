@@ -117,9 +117,6 @@ AZH = {
     level = 5
     influence_value = 0
 }
-NEJ = {
-    value = -100
-}
 LBN = {
     value = 125        #relation
     level = 5        #3=cordial, 4 = friendly, 5 = sphere

@@ -1,5 +1,5 @@
-owner = KON
-controller = KON
+owner = UPB
+controller = UPB
 add_core = KON
 trade_goods = fruit
 life_rating = 35

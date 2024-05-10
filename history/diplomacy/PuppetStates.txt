@@ -391,15 +391,36 @@ vassal = {
 
 #East India Company
 substate = {
-    first = POR
+    first = UPB
     second = EIC
     start_date = 1805.1.1
     end_date = 1936.1.1
 }
 
-Vassal = {
-    first = POR
+substate = {
+    first = UPB
+    second = CHL
+    start_date = 1805.1.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = UPB
     second = CTM
+    start_date = 1805.1.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = UPB
+    second = GAB
+    start_date = 1805.1.1
+    end_date = 1936.1.1
+}
+
+vassal = {
+    first = UPB
+    second = LOA
     start_date = 1805.1.1
     end_date = 1936.1.1
 }
@@ -638,7 +659,7 @@ vassal = {
 
 # United Kingdom-Mysore
 vassal = {
-    first = POR
+    first = UPB
     second = MYS
     start_date = 1799.1.1
     end_date = 1949.1.1
@@ -646,7 +667,7 @@ vassal = {
 
 # United Kingdom-Travancore
 vassal = {
-    first = POR
+    first = UPB
     second = TRA
     start_date = 1795.1.1
     end_date = 1949.1.1
