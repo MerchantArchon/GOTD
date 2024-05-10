@@ -1,6 +1,8 @@
 owner = PLR
 controller = PLR
 add_core = KMK
+add_core = DON
+add_core = HET
 trade_goods = wool
 life_rating = 35
 colonial = 2

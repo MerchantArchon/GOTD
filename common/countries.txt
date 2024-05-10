@@ -18,6 +18,7 @@ GYN = "countries/Guyenne.txt"
 HEH = "countries/Hechingen.txt"
 ROD = "countries/Rodez.txt"
 VFR = "countries/Vendome-Forez.txt"
+HET = "countries/Hetmanate.txt"
 
 #More GFM Nations
 ANN = "countries/Annam.txt"
@@ -42,7 +43,10 @@ LGD = "countries/Languedoc.txt"
 FLO = "countries/Florida.txt"
 CST = "countries/Castile.txt"
 KOS = "countries/Kosovo.txt"
+TTB = "countries/Trinidad.txt"
 
+#AOL Nations
+ZAP        = "countries/Zaporizhzhia.txt"
 
 #DOD Nations
 TNG = "countries/Tungning.txt"

@@ -1,4 +1,5 @@
 add_core = SIB
+add_core = HET
 #add_core = YAK
 trade_goods = timber
 terrain = boreal

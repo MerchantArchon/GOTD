@@ -1,7 +1,9 @@
 owner = PLR
 controller = PLR
-add_core = UKR
 add_core = RUS
+add_core = ZAP
+add_core = HET
+
 trade_goods = fish
 life_rating = 40
 terrain = odessa

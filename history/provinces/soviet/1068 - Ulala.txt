@@ -1,6 +1,7 @@
 owner = ALT
 controller = ALT
 add_core = SIB
+add_core = HET
 add_core = ALT
 add_core = TNT
 trade_goods = coal

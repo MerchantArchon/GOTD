@@ -3,6 +3,7 @@ controller = TKG
 add_core = KAM
 add_core = MCK
 add_core = GUK
+add_core = HET
 trade_goods = fish
 life_rating = 20
 terrain = boreal

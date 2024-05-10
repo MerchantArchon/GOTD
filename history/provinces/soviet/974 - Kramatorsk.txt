@@ -1,7 +1,9 @@
 owner = PLR
 controller = PLR
 add_core = RUS
-add_core = UKR
+add_core = ZAP
+add_core = HET
+
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

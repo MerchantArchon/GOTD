@@ -1,6 +1,7 @@
 owner = DON
 controller = DON
 add_core = DON
+add_core = HET
 trade_goods = cattle
 terrain = rostov
 life_rating = 35

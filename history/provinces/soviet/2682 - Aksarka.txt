@@ -1,5 +1,6 @@
 add_core = PLR
 add_core = URA
+add_core = HET
 trade_goods = timber
 terrain = boreal
 life_rating = 10

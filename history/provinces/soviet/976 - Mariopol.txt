@@ -1,7 +1,9 @@
 owner = PLR
 controller = PLR
-add_core = RUS
-add_core = UKR
+add_core = DON
+add_core = HET
+add_core = CRI
+
 trade_goods = coal
 terrain = mariupol
 life_rating = 35

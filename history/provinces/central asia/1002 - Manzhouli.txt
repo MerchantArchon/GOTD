@@ -4,5 +4,6 @@ add_core = CHI
 add_core = MCK
 add_core = MGL
 add_core = GUK
+add_core = HET
 trade_goods = cattle
 life_rating = 32

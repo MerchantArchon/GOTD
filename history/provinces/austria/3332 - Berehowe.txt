@@ -2,6 +2,7 @@ owner = HUR
 controller = HUR
 add_core = HUR
 add_core = RUT
+add_core = HET
 add_core = HUN
 add_core = SLV
 add_core = CZH

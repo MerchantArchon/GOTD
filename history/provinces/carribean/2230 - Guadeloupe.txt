@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = POR
+controller = POR
 add_core = GLP
 trade_goods = sugar
 life_rating = 35

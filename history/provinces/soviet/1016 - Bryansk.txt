@@ -2,5 +2,7 @@ owner = PLR
 controller = PLR
 add_core = RUS
 add_core = UKR
+add_core = HET
+
 trade_goods = timber
 life_rating = 35

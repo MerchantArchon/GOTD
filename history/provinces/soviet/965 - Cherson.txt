@@ -1,7 +1,9 @@
 owner = PLR
 controller = PLR
+add_core = DON
+add_core = HET
 add_core = CRI
-add_core = UKR
+
 trade_goods = fish
 life_rating = 35
 terrain = kherson

@@ -1,5 +1,5 @@
-owner = CSA
-controller = CSA
+#owner = CSA
+#controller = CSA
 add_core = CSA
 colonial = 2
 trade_goods = cattle

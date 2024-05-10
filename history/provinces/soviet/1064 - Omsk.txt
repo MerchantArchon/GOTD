@@ -2,6 +2,7 @@ owner = PLR
 controller = PLR
 add_core = PLR
 add_core = URA
+add_core = HET
 trade_goods = sulphur
 life_rating = 40
 terrain = omsk

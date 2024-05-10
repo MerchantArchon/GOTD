@@ -4,5 +4,8 @@ add_core = LIT
 add_core = BYE
 add_core = RUS
 add_core = PLR
+add_core = UKR
+add_core = HET
+
 trade_goods = timber
 life_rating = 35

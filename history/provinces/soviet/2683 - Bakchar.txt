@@ -1,4 +1,5 @@
 add_core = SIB
+add_core = HET
 trade_goods = coal
 life_rating = 35
 colonial = 2

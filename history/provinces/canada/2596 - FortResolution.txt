@@ -1,4 +1,4 @@
-add_core = QUA
+add_core = QUE
 trade_goods = fish
 life_rating = 10
 colonial = 2

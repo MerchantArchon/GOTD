@@ -2,5 +2,7 @@ owner = PLR
 controller = PLR
 add_core = BKY
 add_core = PLR
+add_core = DON
+add_core = HET
 trade_goods = cattle
 life_rating = 35

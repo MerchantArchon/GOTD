@@ -4,6 +4,9 @@ add_core = LIT
 add_core = BYE
 add_core = RUS
 add_core = PLR
+
+add_core = UKR
+add_core = HET
 trade_goods = grain
 terrain = brest_litovsk
 life_rating = 35

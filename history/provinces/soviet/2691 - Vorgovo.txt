@@ -1,6 +1,7 @@
 owner = SIB
 controller = SIB
 add_core = SIB
+add_core = HET
 add_core = TNT
 trade_goods = gold
 life_rating = 35

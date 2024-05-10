@@ -1,4 +1,5 @@
-color = { 228 106 120 }
+color = { 105  145  105 }
+#color = { 228 106 120 }
 #color = { 172 14 33 }
 graphical_culture = EuropeanGC
 

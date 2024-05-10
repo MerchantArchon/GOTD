@@ -1,5 +1,6 @@
 owner = URA
 controller = URA
 add_core = URA
+add_core = HET
 trade_goods = iron
 life_rating = 35

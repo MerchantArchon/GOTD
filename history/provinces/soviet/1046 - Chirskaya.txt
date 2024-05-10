@@ -1,6 +1,7 @@
 owner = DON
 controller = DON
 add_core = DON
+add_core = HET
 add_core = KMK
 trade_goods = coal
 terrain = novocherkassk

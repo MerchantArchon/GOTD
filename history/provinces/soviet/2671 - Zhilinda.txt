@@ -2,6 +2,7 @@ owner = BRY
 controller = BRY
 add_core = BRY
 add_core = GUK
+add_core = HET
 trade_goods = timber
 life_rating = 35
 terrain = mountain

@@ -3,6 +3,7 @@ controller = MCK
 add_core = CHI
 add_core = MCK
 add_core = GUK
+add_core = HET
 trade_goods = coal
 life_rating = 32
 terrain = forest_hills
