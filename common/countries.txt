@@ -44,6 +44,7 @@ FLO = "countries/Florida.txt"
 CST = "countries/Castile.txt"
 KOS = "countries/Kosovo.txt"
 TTB = "countries/Trinidad.txt"
+SIO = "countries/Sioux.txt"
 
 #AOL Nations
 ZAP        = "countries/Zaporizhzhia.txt"

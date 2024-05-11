@@ -1,5 +1,5 @@
-owner = YZW
-controller = YZW
+owner = TKG
+controller = TKG
 add_core = YZW
 trade_goods = wool
 life_rating = 35

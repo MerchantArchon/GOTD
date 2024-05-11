@@ -1,5 +1,6 @@
-color = { 90 175 255 }
-viceroyalty = { 220  202  96 }
+color = { 174 77 180 }
+#color = { 90 175 255 }
+#viceroyalty = { 220  202  96 }
 graphical_culture = SouthAmericanGC
 
 party = {
