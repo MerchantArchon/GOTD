@@ -1,7 +1,7 @@
 owner = WEI
 controller = WEI
 add_core = WEI
-add_core = GER
+add_core = GCF
 trade_goods = timber
 terrain = forest_hills
 life_rating = 40

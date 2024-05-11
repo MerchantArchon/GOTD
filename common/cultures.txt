@@ -133,7 +133,7 @@ germanic = {
         "von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
     }
 
-    union = GER
+    union = GCF
 }
 
 jewish_cultures = {

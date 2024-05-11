@@ -1,7 +1,7 @@
 owner = BAD
 controller = BAD
 add_core = BAD
-add_core = GER
+add_core = GCF
 trade_goods = fish
 life_rating = 40
 terrain = konstanz

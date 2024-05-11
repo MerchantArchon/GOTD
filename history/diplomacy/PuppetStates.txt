@@ -389,14 +389,6 @@ vassal = {
     end_date = 1864.10.30
 }
 
-#East India Company
-substate = {
-    first = UPB
-    second = EIC
-    start_date = 1805.1.1
-    end_date = 1936.1.1
-}
-
 substate = {
     first = UPB
     second = CHL
@@ -648,30 +640,12 @@ vassal = {
     end_date = 1936.1.1
 }
 
-
-
 #vassal = {
 #    first = PAN
 #    second = KAS
 #    start_date = 1780.1.1
 #    end_date = 1949.1.1
 #}
-
-# United Kingdom-Mysore
-vassal = {
-    first = UPB
-    second = MYS
-    start_date = 1799.1.1
-    end_date = 1949.1.1
-}
-
-# United Kingdom-Travancore
-vassal = {
-    first = UPB
-    second = TRA
-    start_date = 1795.1.1
-    end_date = 1949.1.1
-}
 
 # United Kingdom-Maharashtra
 vassal = {

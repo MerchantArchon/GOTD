@@ -3,6 +3,6 @@ controller = BRN
 add_core = BRN
 add_core = PRU
 add_core = WES
-add_core = GER
+add_core = GCF
 trade_goods = cattle
 life_rating = 40

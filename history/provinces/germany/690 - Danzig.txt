@@ -1,7 +1,7 @@
 owner = DZG
 controller = DZG
 add_core = HNS
-add_core = GER
+add_core = GCF
 add_core = DZG
 add_core = PML
 add_core = CPL

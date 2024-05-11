@@ -1,7 +1,7 @@
 owner = PAL
 controller = PAL
 add_core = BAV
-add_core = GER
+add_core = GCF
 add_core = PAL
 add_core = RHI
 trade_goods = fruit

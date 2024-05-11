@@ -1,7 +1,7 @@
 owner = WUR
 controller = WUR
 add_core = WUR
-add_core = GER
+add_core = GCF
 trade_goods = cattle
 life_rating = 40
 terrain = augsburg

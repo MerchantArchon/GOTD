@@ -1,7 +1,7 @@
 owner = SAX
 controller = SAX
 add_core = SAX
-add_core = GER
+add_core = GCF
 add_core = SLS
 add_core = LUS
 trade_goods = coal
