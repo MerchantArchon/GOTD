@@ -1,5 +1,6 @@
-owner = KOS
-controller = KOS
+owner = TET
+controller = TET
+add_core = TET
 add_core = KOS
 add_core = TUR
 add_core = BUL

@@ -19,6 +19,10 @@ HEH = "countries/Hechingen.txt"
 ROD = "countries/Rodez.txt"
 VFR = "countries/Vendome-Forez.txt"
 HET = "countries/Hetmanate.txt"
+PJG = "countries/Peja-Gjakova.txt"
+VRJ = "countries/Vranja.txt"
+PRZ = "countries/Prizren.txt"
+TET = "countries/Tetova.txt"
 
 #More GFM Nations
 ANN = "countries/Annam.txt"

@@ -135,6 +135,30 @@ vassal = {
     start_date = 1817.1.1
     end_date = 1844.1.1
 }
+vassal = {
+    first = TUR
+    second = TET
+    start_date = 1817.1.1
+    end_date = 1844.1.1
+}
+vassal = {
+    first = TUR
+    second = VRJ
+    start_date = 1817.1.1
+    end_date = 1844.1.1
+}
+vassal = {
+    first = TUR
+    second = PJG
+    start_date = 1817.1.1
+    end_date = 1844.1.1
+}
+vassal = {
+    first = TUR
+    second = PRZ
+    start_date = 1817.1.1
+    end_date = 1844.1.1
+}
 
 #Ottoman - Baban
 vassal = {

@@ -1,5 +1,6 @@
-owner = KOS
-controller = KOS
+owner = PJG
+controller = PJG
+add_core = PJG
 add_core = KOS
 add_core = TUR
 add_core = SER
