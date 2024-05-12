@@ -1,5 +1,5 @@
 add_core = JAP
 add_core = LSK
-add_core = CAL
+add_core = DNG
 trade_goods = grain
 life_rating = 31

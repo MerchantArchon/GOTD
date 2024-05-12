@@ -1,4 +1,4 @@
-add_core = CAL
+add_core = DNG
 trade_goods = fish
 life_rating = 35
 colonial = 2

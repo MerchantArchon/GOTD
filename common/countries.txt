@@ -56,6 +56,10 @@ ZAP        = "countries/Zaporizhzhia.txt"
 #DOD Nations
 TNG = "countries/Tungning.txt"
 IRO = "countries/Iroquois.txt"
+RAP = "countries/Rapa Nui.txt"
+VIN = "countries/Vinland.txt"
+AZT = "countries/Aztlan.txt"
+DNG = "countries/Dong Guo.txt"
 
 #TOL Nations
 HNS = "countries/Hanse.txt"
