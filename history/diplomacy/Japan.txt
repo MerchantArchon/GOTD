@@ -7,18 +7,6 @@ substate = {
 }
 substate = {
     first = TKG
-    second = YZW
-    start_date = 1817.1.1
-    end_date = 1937.1.1
-}
-substate = {
-    first = TKG
-    second = KAG
-    start_date = 1817.1.1
-    end_date = 1937.1.1
-}
-substate = {
-    first = TKG
     second = TOS
     start_date = 1817.1.1
     end_date = 1937.1.1

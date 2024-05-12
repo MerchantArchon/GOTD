@@ -1,0 +1,32 @@
+name = "The Wahhabi War"
+
+1811.10.2 = {
+    add_attacker = EGY
+    add_attacker = TUR
+    add_defender = NEJ
+    add_defender = HDJ
+    add_defender = HAL
+    #add_defender = DUB
+    #add_defender = QSM
+    #add_defender = ABU
+
+    # actor
+    # receiver
+    # casus_belli - cb type
+    # country - 3rd party
+    # state_province_id - target state capital
+    war_goal = {
+        casus_belli = conquest
+        actor = EGY
+        receiver = NEJ
+    }
+
+}
+
+1818.11.15 = {
+    rem_attacker = EGY
+    rem_attacker = TUR
+    rem_defender = NEJ
+    rem_defender = HDJ
+    rem_defender = HAL
+}
